@@ -19,6 +19,7 @@
     "vercel": "^34.2.6"
   },
   "dependencies": {
+    "@upstash/qstash": "^2.6.3",
     "dotenv": "^16.4.5"
   }
 }
