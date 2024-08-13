@@ -4,6 +4,8 @@
   "description": "",
   "type": "module",
   "scripts": {
+    "dev": "vercel dev",
+    "publish": "curl http://localhost:3000/api/publish",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
