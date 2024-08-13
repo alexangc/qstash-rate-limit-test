@@ -61,3 +61,5 @@ divide their rate limit by half to define our own.
 - `vercel.json`: https://vercel.com/docs/projects/project-configuration
 - Upstash rate limit's sliding window algorithm:
   https://upstash.com/docs/redis/sdks/ratelimit-ts/algorithms#sliding-window
+- Standalone minimal example of `@upstash/ratelimit`:
+  https://github.com/alexangc/test-qstash-rate-limit-standalone
